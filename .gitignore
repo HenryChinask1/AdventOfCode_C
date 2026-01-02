@@ -1,0 +1,7 @@
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.bin
+.vscode/
+Advent of Code Inputs/
