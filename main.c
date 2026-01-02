@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 2015 day one solution..
+// TODO: Figure out how to separate the projects and puzzle days.
 int main(void)
 {
     FILE *fp;
