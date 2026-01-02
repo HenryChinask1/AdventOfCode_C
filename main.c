@@ -17,5 +17,5 @@ int main(void)
         }
     }
     fclose(fp);
-    printf("Final floor is %d\n", floor);
+printf("2015 Part One: %d\n", floor);
 }
