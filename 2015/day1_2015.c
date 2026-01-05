@@ -7,7 +7,7 @@ int main(void)
     // Part One.
 
     FILE *fp;
-    fp = fopen("Advent of Code Inputs/2015day1.txt", "r");
+    fp = fopen("../Advent of Code Inputs/2015day1.txt", "r");
     int c;
     int floor = 0;
 
